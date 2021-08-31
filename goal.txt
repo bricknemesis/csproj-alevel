@@ -1,0 +1,18 @@
+-Consistent menu / sidebar UI on every screen
+-Where possible, treeviews that reflect what you're in (etc customer screen see all customers)
+-Multiple tkinter widgets to refuce the amount the user has to type in and improve validation
+-Use hover text
+-Keybind events, i.e. making treeview interactive
+-Help facility
+-No back buttons, easy navigation
+-Clear validation
+-Make sure database entries have primary keys
+-If we're searching for someone, don't make the search based on an ID (not good for UX)
+
+-For login screen
+	Enter new user
+	Enter username / password to login
+	Validation
+	Some method to restore forgotten password
+	Logo of company
+	Nice UI
